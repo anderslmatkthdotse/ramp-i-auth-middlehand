@@ -1,0 +1,214 @@
+<users>
+
+    <!--ALl inne i KTH samt Flemmingberg/DataTeknik-->
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/KTH"/>
+            <org path="/KTH/Flemmingsberg/Datateknik"/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/KTH"/>
+            <org path="/KTH/Flemmingsberg/Datateknik"/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+
+    </user>
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/KTH"/>
+            <org path="/KTH/Flemmingsberg/Datateknik"/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/KTH"/>
+            <org path="/KTH/Flemmingsberg/Datateknik"/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/KTH"/>
+            <org path="/KTH/Flemmingsberg/Datateknik"/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/KTH"/>
+            <org path="/KTH/Flemmingsberg/Datateknik"/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/KTH"/>
+            <org path="/KTH/Flemmingsberg/Datateknik"/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+
+    <!--KTH Flemmingberg Elektrokenik-->
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/KTH"/>
+            <org path="/KTH/Flemmingsberg/Elektroteknik "/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/KTH"/>
+            <org path="/KTH/Flemmingsberg/Elektroteknik "/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/KTH"/>
+            <org path="/KTH/Flemmingsberg/Elektroteknik "/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/KTH"/>
+            <org path="/KTH/Flemmingsberg/Elektroteknik "/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/KTH"/>
+            <org path="/KTH/Flemmingsberg/Elektroteknik "/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+
+    <!--Dessa borde ej gå som det ser ut nu-->
+    <!--SU Ekonomi-->
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/SU"/>
+            <org path="/SU/Ekonomi"/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/SU"/>
+            <org path="/SU/Ekonomi"/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/SU"/>
+            <org path="/SU/Ekonomi"/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/SU"/>
+            <org path="/SU/Ekonomi"/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+
+    <!--Su Juridik-->
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/SU"/>
+            <org path="/SU/Juridik"/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/SU"/>
+            <org path="/SU/Juridik"/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/SU"/>
+            <org path="/SU/Juridik"/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+    <user username="Spring XML:" firstName="Spring" lastName="Boot">
+        <groups>
+            <org path="/SU"/>
+            <org path="/SU/Juridik"/>
+        </groups>
+
+        <credentials>
+            <credential temporary="false" value="Password"/>
+        </credentials>
+    </user>
+
+</users>
+
